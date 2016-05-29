@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinServer", "OwinServer\OwinServer.csproj", "{9BDC6C41-19E6-41E6-8555-1EC382C53118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinServer.Test", "OwinServer.Test\OwinServer.Test.csproj", "{9DDE83F2-F67E-45DE-AD5B-251A9CB819F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B849F71-D689-49F4-BD02-95203850E88E}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BDC6C41-19E6-41E6-8555-1EC382C53118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDC6C41-19E6-41E6-8555-1EC382C53118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDC6C41-19E6-41E6-8555-1EC382C53118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDC6C41-19E6-41E6-8555-1EC382C53118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDE83F2-F67E-45DE-AD5B-251A9CB819F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDE83F2-F67E-45DE-AD5B-251A9CB819F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDE83F2-F67E-45DE-AD5B-251A9CB819F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDE83F2-F67E-45DE-AD5B-251A9CB819F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

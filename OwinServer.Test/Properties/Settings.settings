@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OwinServer.Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerBaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:8099</Value>
+    </Setting>
+    <Setting Name="Thumbprints" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E3D912F3C689C03274253BC3EB69A77B2C90C1FF</Value>
+    </Setting>
+    <Setting Name="WebProxyUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
